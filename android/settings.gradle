@@ -1,0 +1,3 @@
+rootProject.name = 'STL4'
+
+include ':app'
